@@ -11,3 +11,7 @@ CREATE TABLE dbo.korisnik (
 --dodan komentar
 
 --dodan novi komentar
+
+--još jedan komentar
+
+--još jedan komentas
