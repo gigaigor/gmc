@@ -8,4 +8,7 @@ CREATE TABLE dbo.korisnik (
     kor_ime CHAR(8) NOT NULL,
     lozinka VARCHAR(128) NOT NULL
 );
+
 --napravio sam dvije grane, ovo je komentar na prvoj grani, koju sad megram na master
+
+--ovo je drugačiji komentar za koji će biti test merge 
