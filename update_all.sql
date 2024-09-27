@@ -8,10 +8,3 @@ CREATE TABLE dbo.korisnik (
     kor_ime CHAR(8) NOT NULL,
     lozinka VARCHAR(128) NOT NULL
 );
---dodan komentar
-
---dodan novi komentar
-
---još jedan komentar
-
---još jedan komentas
