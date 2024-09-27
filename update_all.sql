@@ -9,3 +9,5 @@ CREATE TABLE dbo.korisnik (
     lozinka VARCHAR(128) NOT NULL
 );
 --dodan komentar
+
+--dodan novi komentar
